@@ -1,0 +1,8 @@
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundCapture\bin\x86\Release\SoundCapture.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundCapture\bin\x86\Release\SoundCapture.pdb
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundCapture\bin\x86\Release\Microsoft.DirectX.DirectSound.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundCapture\bin\x86\Release\Microsoft.DirectX.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundCapture\bin\x86\Release\Microsoft.DirectX.DirectSound.xml
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundCapture\bin\x86\Release\Microsoft.DirectX.xml
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundCapture\obj\x86\Release\SoundCapture.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundCapture\obj\x86\Release\SoundCapture.pdb

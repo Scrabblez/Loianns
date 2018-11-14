@@ -1,0 +1,10 @@
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\SoundAnalysis\bin\Debug\SoundAnalysis.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\SoundAnalysis\bin\Debug\SoundAnalysis.pdb
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\SoundAnalysis\obj\Debug\SoundAnalysis.csprojResolveAssemblyReference.cache
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\SoundAnalysis\obj\Debug\SoundAnalysis.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\SoundAnalysis\obj\Debug\SoundAnalysis.pdb
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundAnalysis\bin\Debug\SoundAnalysis.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundAnalysis\bin\Debug\SoundAnalysis.pdb
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundAnalysis\obj\Debug\SoundAnalysis.csprojResolveAssemblyReference.cache
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundAnalysis\obj\Debug\SoundAnalysis.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundAnalysis\obj\Debug\SoundAnalysis.pdb

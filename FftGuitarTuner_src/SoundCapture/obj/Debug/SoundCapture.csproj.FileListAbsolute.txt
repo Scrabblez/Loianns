@@ -1,0 +1,18 @@
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\SoundCapture\bin\Debug\SoundCapture.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\SoundCapture\bin\Debug\SoundCapture.pdb
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\SoundCapture\bin\Debug\Microsoft.DirectX.DirectSound.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\SoundCapture\bin\Debug\Microsoft.DirectX.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\SoundCapture\bin\Debug\Microsoft.DirectX.DirectSound.xml
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\SoundCapture\bin\Debug\Microsoft.DirectX.xml
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\SoundCapture\obj\Debug\SoundCapture.csprojResolveAssemblyReference.cache
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\SoundCapture\obj\Debug\SoundCapture.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\SoundCapture\obj\Debug\SoundCapture.pdb
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundCapture\bin\Debug\SoundCapture.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundCapture\bin\Debug\SoundCapture.pdb
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundCapture\bin\Debug\Microsoft.DirectX.DirectSound.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundCapture\bin\Debug\Microsoft.DirectX.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundCapture\bin\Debug\Microsoft.DirectX.DirectSound.xml
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundCapture\bin\Debug\Microsoft.DirectX.xml
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundCapture\obj\Debug\SoundCapture.csprojResolveAssemblyReference.cache
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundCapture\obj\Debug\SoundCapture.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\SoundCapture\obj\Debug\SoundCapture.pdb

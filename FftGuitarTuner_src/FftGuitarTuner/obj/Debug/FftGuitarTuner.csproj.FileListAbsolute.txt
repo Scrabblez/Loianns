@@ -1,0 +1,41 @@
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\FftGuitarTuner.exe
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\FftGuitarTuner.pdb
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\SoundAnalysis.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\SoundCapture.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\Microsoft.DirectX.DirectSound.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\Microsoft.DirectX.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\SoundAnalysis.pdb
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\SoundCapture.pdb
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\Microsoft.DirectX.DirectSound.xml
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\Microsoft.DirectX.xml
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.csprojResolveAssemblyReference.cache
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.FrequenciesScale.resources
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.MainForm.resources
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.Properties.Resources.resources
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.SelectDeviceForm.resources
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.csproj.GenerateResource.Cache
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.exe
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.pdb
+D:\Users\Ann\Desktop\2016 FFT Guitar\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\FftGuitarTuner.exe.config
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\FftGuitarTuner.exe.config
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.exe
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.pdb
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\FftGuitarTuner.exe.manifest
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\FftGuitarTuner.application
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\FftGuitarTuner.exe
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\FftGuitarTuner.pdb
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\SoundAnalysis.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\SoundCapture.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\Microsoft.DirectX.DirectSound.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\Microsoft.DirectX.dll
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\SoundAnalysis.pdb
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\SoundCapture.pdb
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\Microsoft.DirectX.DirectSound.xml
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\Microsoft.DirectX.xml
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.FrequenciesScale.resources
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.MainForm.resources
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.Properties.Resources.resources
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.SelectDeviceForm.resources
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.csproj.GenerateResource.Cache
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.exe.manifest
+D:\Users\Ann\Desktop\2016 FFT Guitar Tuner - Original Working\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.application
