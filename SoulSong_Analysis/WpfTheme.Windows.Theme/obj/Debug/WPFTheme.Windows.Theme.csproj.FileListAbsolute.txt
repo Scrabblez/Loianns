@@ -1,0 +1,12 @@
+D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\bin\Debug\WpfTheme.Windows.Theme.dll
+D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\bin\Debug\WpfTheme.Windows.Theme.pdb
+D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\WpfTheme.Windows.Theme_MarkupCompile.cache
+D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\WpfTheme.Windows.Theme_MarkupCompile.lref
+D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\ButtonStyle.baml
+D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\Theme.baml
+D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\WpfTheme.Windows.Theme.g.resources
+D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\WpfTheme.Windows.Theme.Properties.Resources.resources
+D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\WPFTheme.Windows.Theme.csproj.GenerateResource.Cache
+D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\WPFTheme.Windows.Theme.csproj.CoreCompileInputs.cache
+D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\WpfTheme.Windows.Theme.dll
+D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\WpfTheme.Windows.Theme.pdb
