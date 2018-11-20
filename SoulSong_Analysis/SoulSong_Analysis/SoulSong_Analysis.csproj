@@ -56,6 +56,9 @@
     <StartupObject>SoulSong_Analysis.App</StartupObject>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Prism, Version=7.1.0.431, Culture=neutral, PublicKeyToken=40ee6c3a2184dc59, processorArchitecture=MSIL">
+      <HintPath>..\packages\Prism.Core.7.1.0.431\lib\net45\Prism.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
@@ -76,7 +79,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="InstallScreen.xaml">
+    <Page Include="Views\InstallScreen.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -84,7 +87,9 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="InstallScreen.xaml.cs">
+    <Compile Include="ViewModels\BaseViewModel.cs" />
+    <Compile Include="ViewModels\InstallScreenVM.cs" />
+    <Compile Include="Views\InstallScreen.xaml.cs">
       <DependentUpon>InstallScreen.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
@@ -107,6 +112,7 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -140,6 +146,9 @@
       <Project>{b1f55b83-0fe7-4e9f-8a0e-1918bcd7826d}</Project>
       <Name>WPFTheme.Windows.Theme</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
