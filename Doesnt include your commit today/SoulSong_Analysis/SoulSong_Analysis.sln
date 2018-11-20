@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoulSong_Analysis", "SoulSong_Analysis\SoulSong_Analysis.csproj", "{3B734F57-301C-4585-ADD3-BDCB2704FE0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFTheme.Windows.Theme", "WpfTheme.Windows.Theme\WPFTheme.Windows.Theme.csproj", "{B1F55B83-0FE7-4E9F-8A0E-1918BCD7826D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B734F57-301C-4585-ADD3-BDCB2704FE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B734F57-301C-4585-ADD3-BDCB2704FE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B734F57-301C-4585-ADD3-BDCB2704FE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B734F57-301C-4585-ADD3-BDCB2704FE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F55B83-0FE7-4E9F-8A0E-1918BCD7826D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F55B83-0FE7-4E9F-8A0E-1918BCD7826D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F55B83-0FE7-4E9F-8A0E-1918BCD7826D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F55B83-0FE7-4E9F-8A0E-1918BCD7826D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {214426FC-F40D-48D3-ABC4-087B8A5315C4}
+	EndGlobalSection
+EndGlobal
