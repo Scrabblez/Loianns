@@ -1,0 +1,47 @@
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\Projects\InstallScreen\InstallScreen\bin\Debug\InstallScreen.exe.config
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\Projects\InstallScreen\InstallScreen\bin\Debug\InstallScreen.exe
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\Projects\InstallScreen\InstallScreen\bin\Debug\InstallScreen.pdb
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\Projects\InstallScreen\InstallScreen\bin\Debug\InstallScreen.xml
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.vbprojResolveAssemblyReference.cache
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.InstallScreen.resources
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.Resources.resources
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.vbproj.GenerateResource.Cache
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.vbproj.CoreCompileInputs.cache
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.exe
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.xml
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.pdb
+E:\Documents\1 All SoulSong Work\Projects\InstallScreen\InstallScreen\bin\Debug\InstallScreen.exe.config
+E:\Documents\1 All SoulSong Work\Projects\InstallScreen\InstallScreen\bin\Debug\InstallScreen.exe
+E:\Documents\1 All SoulSong Work\Projects\InstallScreen\InstallScreen\bin\Debug\InstallScreen.pdb
+E:\Documents\1 All SoulSong Work\Projects\InstallScreen\InstallScreen\bin\Debug\InstallScreen.xml
+E:\Documents\1 All SoulSong Work\Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.vbprojResolveAssemblyReference.cache
+E:\Documents\1 All SoulSong Work\Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.InstallScreen.resources
+E:\Documents\1 All SoulSong Work\Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.Resources.resources
+E:\Documents\1 All SoulSong Work\Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.vbproj.GenerateResource.Cache
+E:\Documents\1 All SoulSong Work\Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.vbproj.CoreCompileInputs.cache
+E:\Documents\1 All SoulSong Work\Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.exe
+E:\Documents\1 All SoulSong Work\Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.xml
+E:\Documents\1 All SoulSong Work\Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.pdb
+E:\Documents\1 All SoulSong Work\0 Projects\InstallScreen\InstallScreen\bin\Debug\InstallScreen.exe.config
+E:\Documents\1 All SoulSong Work\0 Projects\InstallScreen\InstallScreen\bin\Debug\InstallScreen.exe
+E:\Documents\1 All SoulSong Work\0 Projects\InstallScreen\InstallScreen\bin\Debug\InstallScreen.pdb
+E:\Documents\1 All SoulSong Work\0 Projects\InstallScreen\InstallScreen\bin\Debug\InstallScreen.xml
+E:\Documents\1 All SoulSong Work\0 Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.vbprojResolveAssemblyReference.cache
+E:\Documents\1 All SoulSong Work\0 Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.InstallScreen.resources
+E:\Documents\1 All SoulSong Work\0 Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.Resources.resources
+E:\Documents\1 All SoulSong Work\0 Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.vbproj.GenerateResource.Cache
+E:\Documents\1 All SoulSong Work\0 Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.vbproj.CoreCompileInputs.cache
+E:\Documents\1 All SoulSong Work\0 Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.exe
+E:\Documents\1 All SoulSong Work\0 Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.xml
+E:\Documents\1 All SoulSong Work\0 Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.pdb
+E:\Documents\1 All SoulSong Work\0 Separate Projects\InstallScreen\InstallScreen\bin\Debug\InstallScreen.exe.config
+E:\Documents\1 All SoulSong Work\0 Separate Projects\InstallScreen\InstallScreen\bin\Debug\InstallScreen.exe
+E:\Documents\1 All SoulSong Work\0 Separate Projects\InstallScreen\InstallScreen\bin\Debug\InstallScreen.pdb
+E:\Documents\1 All SoulSong Work\0 Separate Projects\InstallScreen\InstallScreen\bin\Debug\InstallScreen.xml
+E:\Documents\1 All SoulSong Work\0 Separate Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.InstallScreen.resources
+E:\Documents\1 All SoulSong Work\0 Separate Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.Resources.resources
+E:\Documents\1 All SoulSong Work\0 Separate Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.vbproj.GenerateResource.Cache
+E:\Documents\1 All SoulSong Work\0 Separate Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.vbproj.CoreCompileInputs.cache
+E:\Documents\1 All SoulSong Work\0 Separate Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.exe
+E:\Documents\1 All SoulSong Work\0 Separate Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.xml
+E:\Documents\1 All SoulSong Work\0 Separate Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.pdb
