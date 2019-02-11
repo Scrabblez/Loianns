@@ -1,0 +1,16 @@
+C:\Users\Ann\Google Drive\SoulSong\2017 Visual Studio\FftGuitarTuner_src\SoundAnalysis\bin\Debug\SoundAnalysis.dll
+C:\Users\Ann\Google Drive\SoulSong\2017 Visual Studio\FftGuitarTuner_src\SoundAnalysis\bin\Debug\SoundAnalysis.pdb
+C:\Users\Ann\Google Drive\SoulSong\2017 Visual Studio\FftGuitarTuner_src\SoundAnalysis\obj\Debug\SoundAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\Ann\Google Drive\SoulSong\2017 Visual Studio\FftGuitarTuner_src\SoundAnalysis\obj\Debug\SoundAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Ann\Google Drive\SoulSong\2017 Visual Studio\FftGuitarTuner_src\SoundAnalysis\obj\Debug\SoundAnalysis.dll
+C:\Users\Ann\Google Drive\SoulSong\2017 Visual Studio\FftGuitarTuner_src\SoundAnalysis\obj\Debug\SoundAnalysis.pdb
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoundAnalysis\bin\Debug\SoundAnalysis.dll
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoundAnalysis\bin\Debug\SoundAnalysis.pdb
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoundAnalysis\obj\Debug\SoundAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoundAnalysis\obj\Debug\SoundAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoundAnalysis\obj\Debug\SoundAnalysis.dll
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoundAnalysis\obj\Debug\SoundAnalysis.pdb
+E:\Documents\1 All SoulSong Work\SS Audio Analysis\SoundAnalysis\obj\Debug\SoundAnalysis.csprojResolveAssemblyReference.cache
+E:\Documents\1 All SoulSong Work\SS Audio Analysis\SoundAnalysis\obj\Debug\SoundAnalysis.csproj.CoreCompileInputs.cache
+E:\Documents\1 All SoulSong Work\SS Audio Analysis\SoundAnalysis\obj\Debug\SoundAnalysis.dll
+E:\Documents\1 All SoulSong Work\SS Audio Analysis\SoundAnalysis\obj\Debug\SoundAnalysis.pdb
