@@ -1,0 +1,12 @@
+Public Function Stage(varAge)
+' declare variables to age, spiral number
+    Dim varStageNumber As Integer
+    Dim varStage As Variant
+    varStage = Array("Root", "Sacral", "Solar Plexus", "Heart", "Throat", "Third Eye", "Crown")
+    Dim StageName As String
+
+    varStageNumber = varAge Mod 7
+        
+    StageName = varStage(varStageNumber - 1)
+
+End Function
