@@ -1,0 +1,48 @@
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\Calendar\Calendar\bin\Debug\Calendar.exe.config
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\Calendar\Calendar\bin\Debug\Calendar.exe
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\Calendar\Calendar\bin\Debug\Calendar.pdb
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\Calendar\Calendar\bin\Debug\Calendar.xml
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\Calendar\Calendar\obj\Debug\Calendar.Form1.resources
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\Calendar\Calendar\obj\Debug\Calendar.Resources.resources
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\Calendar\Calendar\obj\Debug\Calendar.vbproj.GenerateResource.Cache
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\Calendar\Calendar\obj\Debug\Calendar.vbproj.CoreCompileInputs.cache
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\Calendar\Calendar\obj\Debug\Calendar.exe
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\Calendar\Calendar\obj\Debug\Calendar.xml
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\Calendar\Calendar\obj\Debug\Calendar.pdb
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\Calendar\Calendar\obj\Debug\Calendar.vbprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio SoulSong\Projects\Calendar\Calendar\bin\Debug\Calendar.exe.config
+E:\Documents\Visual Studio SoulSong\Projects\Calendar\Calendar\bin\Debug\Calendar.exe
+E:\Documents\Visual Studio SoulSong\Projects\Calendar\Calendar\bin\Debug\Calendar.pdb
+E:\Documents\Visual Studio SoulSong\Projects\Calendar\Calendar\bin\Debug\Calendar.xml
+E:\Documents\Visual Studio SoulSong\Projects\Calendar\Calendar\obj\Debug\Calendar.vbprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio SoulSong\Projects\Calendar\Calendar\obj\Debug\Calendar.Form1.resources
+E:\Documents\Visual Studio SoulSong\Projects\Calendar\Calendar\obj\Debug\Calendar.Resources.resources
+E:\Documents\Visual Studio SoulSong\Projects\Calendar\Calendar\obj\Debug\Calendar.vbproj.GenerateResource.Cache
+E:\Documents\Visual Studio SoulSong\Projects\Calendar\Calendar\obj\Debug\Calendar.vbproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio SoulSong\Projects\Calendar\Calendar\obj\Debug\Calendar.exe
+E:\Documents\Visual Studio SoulSong\Projects\Calendar\Calendar\obj\Debug\Calendar.xml
+E:\Documents\Visual Studio SoulSong\Projects\Calendar\Calendar\obj\Debug\Calendar.pdb
+E:\Documents\1 All SoulSong Work\Projects\Calendar\Calendar\bin\Debug\Calendar.exe.config
+E:\Documents\1 All SoulSong Work\Projects\Calendar\Calendar\bin\Debug\Calendar.exe
+E:\Documents\1 All SoulSong Work\Projects\Calendar\Calendar\bin\Debug\Calendar.pdb
+E:\Documents\1 All SoulSong Work\Projects\Calendar\Calendar\bin\Debug\Calendar.xml
+E:\Documents\1 All SoulSong Work\Projects\Calendar\Calendar\obj\Debug\Calendar.vbprojResolveAssemblyReference.cache
+E:\Documents\1 All SoulSong Work\Projects\Calendar\Calendar\obj\Debug\Calendar.Form1.resources
+E:\Documents\1 All SoulSong Work\Projects\Calendar\Calendar\obj\Debug\Calendar.Resources.resources
+E:\Documents\1 All SoulSong Work\Projects\Calendar\Calendar\obj\Debug\Calendar.vbproj.GenerateResource.Cache
+E:\Documents\1 All SoulSong Work\Projects\Calendar\Calendar\obj\Debug\Calendar.vbproj.CoreCompileInputs.cache
+E:\Documents\1 All SoulSong Work\Projects\Calendar\Calendar\obj\Debug\Calendar.exe
+E:\Documents\1 All SoulSong Work\Projects\Calendar\Calendar\obj\Debug\Calendar.xml
+E:\Documents\1 All SoulSong Work\Projects\Calendar\Calendar\obj\Debug\Calendar.pdb
+E:\Documents\1 All SoulSong Work\0 Separate Projects\Calendar\Calendar\bin\Debug\Calendar.exe.config
+E:\Documents\1 All SoulSong Work\0 Separate Projects\Calendar\Calendar\bin\Debug\Calendar.exe
+E:\Documents\1 All SoulSong Work\0 Separate Projects\Calendar\Calendar\bin\Debug\Calendar.pdb
+E:\Documents\1 All SoulSong Work\0 Separate Projects\Calendar\Calendar\bin\Debug\Calendar.xml
+E:\Documents\1 All SoulSong Work\0 Separate Projects\Calendar\Calendar\obj\Debug\Calendar.vbprojResolveAssemblyReference.cache
+E:\Documents\1 All SoulSong Work\0 Separate Projects\Calendar\Calendar\obj\Debug\Calendar.Form1.resources
+E:\Documents\1 All SoulSong Work\0 Separate Projects\Calendar\Calendar\obj\Debug\Calendar.Resources.resources
+E:\Documents\1 All SoulSong Work\0 Separate Projects\Calendar\Calendar\obj\Debug\Calendar.vbproj.GenerateResource.Cache
+E:\Documents\1 All SoulSong Work\0 Separate Projects\Calendar\Calendar\obj\Debug\Calendar.vbproj.CoreCompileInputs.cache
+E:\Documents\1 All SoulSong Work\0 Separate Projects\Calendar\Calendar\obj\Debug\Calendar.exe
+E:\Documents\1 All SoulSong Work\0 Separate Projects\Calendar\Calendar\obj\Debug\Calendar.xml
+E:\Documents\1 All SoulSong Work\0 Separate Projects\Calendar\Calendar\obj\Debug\Calendar.pdb
