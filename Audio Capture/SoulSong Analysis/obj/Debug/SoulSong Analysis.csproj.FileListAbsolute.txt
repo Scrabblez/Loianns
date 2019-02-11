@@ -1,0 +1,16 @@
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoulSong Analysis\obj\Debug\SoulSong Analysis.csprojResolveAssemblyReference.cache
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoulSong Analysis\obj\Debug\FftGuitarTuner.FrequenciesScale.resources
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoulSong Analysis\obj\Debug\FftGuitarTuner.MainForm.resources
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoulSong Analysis\obj\Debug\FftGuitarTuner.Properties.Resources.resources
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoulSong Analysis\obj\Debug\FftGuitarTuner.SelectDeviceForm.resources
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoulSong Analysis\obj\Debug\SoulSong Analysis.csproj.GenerateResource.Cache
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoulSong Analysis\obj\Debug\SoulSong Analysis.csproj.CoreCompileInputs.cache
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoulSong Analysis\obj\Debug\FftGuitarTuner.pdb
+E:\Documents\1 All SoulSong Work\Projects\Audio Capture\SoulSong Analysis\obj\Debug\SoulSong Analysis.csprojResolveAssemblyReference.cache
+E:\Documents\1 All SoulSong Work\Projects\Audio Capture\SoulSong Analysis\obj\Debug\FftGuitarTuner.FrequenciesScale.resources
+E:\Documents\1 All SoulSong Work\Projects\Audio Capture\SoulSong Analysis\obj\Debug\FftGuitarTuner.MainForm.resources
+E:\Documents\1 All SoulSong Work\Projects\Audio Capture\SoulSong Analysis\obj\Debug\FftGuitarTuner.Properties.Resources.resources
+E:\Documents\1 All SoulSong Work\Projects\Audio Capture\SoulSong Analysis\obj\Debug\FftGuitarTuner.SelectDeviceForm.resources
+E:\Documents\1 All SoulSong Work\Projects\Audio Capture\SoulSong Analysis\obj\Debug\SoulSong Analysis.csproj.GenerateResource.Cache
+E:\Documents\1 All SoulSong Work\Projects\Audio Capture\SoulSong Analysis\obj\Debug\SoulSong Analysis.csproj.CoreCompileInputs.cache
+E:\Documents\1 All SoulSong Work\Projects\Audio Capture\SoulSong Analysis\obj\Debug\FftGuitarTuner.pdb

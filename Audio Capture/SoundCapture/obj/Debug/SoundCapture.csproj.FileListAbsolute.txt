@@ -1,0 +1,28 @@
+C:\Users\Ann\Google Drive\SoulSong\2017 Visual Studio\FftGuitarTuner_src\SoundCapture\bin\Debug\SoundCapture.dll
+C:\Users\Ann\Google Drive\SoulSong\2017 Visual Studio\FftGuitarTuner_src\SoundCapture\bin\Debug\SoundCapture.pdb
+C:\Users\Ann\Google Drive\SoulSong\2017 Visual Studio\FftGuitarTuner_src\SoundCapture\obj\Debug\SoundCapture.csprojResolveAssemblyReference.cache
+C:\Users\Ann\Google Drive\SoulSong\2017 Visual Studio\FftGuitarTuner_src\SoundCapture\obj\Debug\SoundCapture.csproj.CoreCompileInputs.cache
+C:\Users\Ann\Google Drive\SoulSong\2017 Visual Studio\FftGuitarTuner_src\SoundCapture\obj\Debug\SoundCapture.dll
+C:\Users\Ann\Google Drive\SoulSong\2017 Visual Studio\FftGuitarTuner_src\SoundCapture\obj\Debug\SoundCapture.pdb
+C:\Users\Ann\Google Drive\SoulSong\2017 Visual Studio\SoulSong Analysis\SoundCapture\bin\Debug\SoundCapture.dll
+C:\Users\Ann\Google Drive\SoulSong\2017 Visual Studio\SoulSong Analysis\SoundCapture\bin\Debug\SoundCapture.pdb
+C:\Users\Ann\Google Drive\SoulSong\2017 Visual Studio\SoulSong Analysis\SoundCapture\obj\Debug\SoundCapture.csprojResolveAssemblyReference.cache
+C:\Users\Ann\Google Drive\SoulSong\2017 Visual Studio\SoulSong Analysis\SoundCapture\obj\Debug\SoundCapture.csproj.CoreCompileInputs.cache
+C:\Users\Ann\Google Drive\SoulSong\2017 Visual Studio\SoulSong Analysis\SoundCapture\obj\Debug\SoundCapture.dll
+C:\Users\Ann\Google Drive\SoulSong\2017 Visual Studio\SoulSong Analysis\SoundCapture\obj\Debug\SoundCapture.pdb
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoundCapture\bin\Debug\SoundCapture.dll
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoundCapture\bin\Debug\SoundCapture.pdb
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoundCapture\obj\Debug\SoundCapture.csprojResolveAssemblyReference.cache
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoundCapture\obj\Debug\SoundCapture.csproj.CoreCompileInputs.cache
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoundCapture\obj\Debug\SoundCapture.dll
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoundCapture\obj\Debug\SoundCapture.pdb
+E:\Documents\1 All SoulSong Work\Projects\Audio Capture\SoundCapture\bin\Debug\SoundCapture.dll
+E:\Documents\1 All SoulSong Work\Projects\Audio Capture\SoundCapture\bin\Debug\SoundCapture.pdb
+E:\Documents\1 All SoulSong Work\Projects\Audio Capture\SoundCapture\bin\Debug\Microsoft.DirectX.DirectSound.dll
+E:\Documents\1 All SoulSong Work\Projects\Audio Capture\SoundCapture\bin\Debug\Microsoft.DirectX.dll
+E:\Documents\1 All SoulSong Work\Projects\Audio Capture\SoundCapture\bin\Debug\Microsoft.DirectX.DirectSound.xml
+E:\Documents\1 All SoulSong Work\Projects\Audio Capture\SoundCapture\bin\Debug\Microsoft.DirectX.xml
+E:\Documents\1 All SoulSong Work\Projects\Audio Capture\SoundCapture\obj\Debug\SoundCapture.csprojResolveAssemblyReference.cache
+E:\Documents\1 All SoulSong Work\Projects\Audio Capture\SoundCapture\obj\Debug\SoundCapture.csproj.CoreCompileInputs.cache
+E:\Documents\1 All SoulSong Work\Projects\Audio Capture\SoundCapture\obj\Debug\SoundCapture.dll
+E:\Documents\1 All SoulSong Work\Projects\Audio Capture\SoundCapture\obj\Debug\SoundCapture.pdb
