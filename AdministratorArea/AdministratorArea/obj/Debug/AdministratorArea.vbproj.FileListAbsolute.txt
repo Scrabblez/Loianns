@@ -1,0 +1,44 @@
+E:\Documents\Visual Studio SoulSong\Projects\AdministratorArea\SoulSong Analysis\obj\Debug\SoulSong_Analysis.AdministratorAreaForm.resources
+E:\Documents\Visual Studio SoulSong\Projects\AdministratorArea\SoulSong Analysis\obj\Debug\SoulSong_Analysis.Resources.resources
+E:\Documents\Visual Studio SoulSong\Projects\AdministratorArea\SoulSong Analysis\obj\Debug\AdministratorArea.vbproj.GenerateResource.Cache
+E:\Documents\Visual Studio SoulSong\Projects\AdministratorArea\SoulSong Analysis\obj\Debug\AdministratorArea.vbproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio SoulSong\Projects\AdministratorArea\SoulSong Analysis\obj\Debug\SoulSong Analysis.exe
+E:\Documents\Visual Studio SoulSong\Projects\AdministratorArea\SoulSong Analysis\obj\Debug\SoulSong Analysis.xml
+E:\Documents\Visual Studio SoulSong\Projects\AdministratorArea\SoulSong Analysis\obj\Debug\SoulSong Analysis.pdb
+E:\Documents\Visual Studio SoulSong\Projects\AdministratorArea\SoulSong Analysis\bin\Debug\SoulSong Analysis.exe.config
+E:\Documents\Visual Studio SoulSong\Projects\AdministratorArea\SoulSong Analysis\bin\Debug\SoulSong Analysis.exe
+E:\Documents\Visual Studio SoulSong\Projects\AdministratorArea\SoulSong Analysis\bin\Debug\SoulSong Analysis.pdb
+E:\Documents\Visual Studio SoulSong\Projects\AdministratorArea\SoulSong Analysis\bin\Debug\SoulSong Analysis.xml
+E:\Documents\1 All SoulSong Work\Projects\AdministratorArea\AdministratorArea\bin\Debug\SoulSong Analysis.exe.config
+E:\Documents\1 All SoulSong Work\Projects\AdministratorArea\AdministratorArea\bin\Debug\SoulSong Analysis.exe
+E:\Documents\1 All SoulSong Work\Projects\AdministratorArea\AdministratorArea\bin\Debug\SoulSong Analysis.pdb
+E:\Documents\1 All SoulSong Work\Projects\AdministratorArea\AdministratorArea\bin\Debug\SoulSong Analysis.xml
+E:\Documents\1 All SoulSong Work\Projects\AdministratorArea\AdministratorArea\obj\Debug\SoulSong_Analysis.AdministratorAreaForm.resources
+E:\Documents\1 All SoulSong Work\Projects\AdministratorArea\AdministratorArea\obj\Debug\SoulSong_Analysis.Resources.resources
+E:\Documents\1 All SoulSong Work\Projects\AdministratorArea\AdministratorArea\obj\Debug\AdministratorArea.vbproj.GenerateResource.Cache
+E:\Documents\1 All SoulSong Work\Projects\AdministratorArea\AdministratorArea\obj\Debug\AdministratorArea.vbproj.CoreCompileInputs.cache
+E:\Documents\1 All SoulSong Work\Projects\AdministratorArea\AdministratorArea\obj\Debug\SoulSong Analysis.exe
+E:\Documents\1 All SoulSong Work\Projects\AdministratorArea\AdministratorArea\obj\Debug\SoulSong Analysis.xml
+E:\Documents\1 All SoulSong Work\Projects\AdministratorArea\AdministratorArea\obj\Debug\SoulSong Analysis.pdb
+E:\Documents\1 All SoulSong Work\0 Projects\AdministratorArea\AdministratorArea\bin\Debug\SoulSong Analysis.exe.config
+E:\Documents\1 All SoulSong Work\0 Projects\AdministratorArea\AdministratorArea\bin\Debug\SoulSong Analysis.exe
+E:\Documents\1 All SoulSong Work\0 Projects\AdministratorArea\AdministratorArea\bin\Debug\SoulSong Analysis.pdb
+E:\Documents\1 All SoulSong Work\0 Projects\AdministratorArea\AdministratorArea\bin\Debug\SoulSong Analysis.xml
+E:\Documents\1 All SoulSong Work\0 Projects\AdministratorArea\AdministratorArea\obj\Debug\SoulSong_Analysis.AdministratorAreaForm.resources
+E:\Documents\1 All SoulSong Work\0 Projects\AdministratorArea\AdministratorArea\obj\Debug\SoulSong_Analysis.Resources.resources
+E:\Documents\1 All SoulSong Work\0 Projects\AdministratorArea\AdministratorArea\obj\Debug\AdministratorArea.vbproj.GenerateResource.Cache
+E:\Documents\1 All SoulSong Work\0 Projects\AdministratorArea\AdministratorArea\obj\Debug\AdministratorArea.vbproj.CoreCompileInputs.cache
+E:\Documents\1 All SoulSong Work\0 Projects\AdministratorArea\AdministratorArea\obj\Debug\SoulSong Analysis.exe
+E:\Documents\1 All SoulSong Work\0 Projects\AdministratorArea\AdministratorArea\obj\Debug\SoulSong Analysis.xml
+E:\Documents\1 All SoulSong Work\0 Projects\AdministratorArea\AdministratorArea\obj\Debug\SoulSong Analysis.pdb
+E:\Documents\1 All SoulSong Work\0 Projects\AdministratorArea\AdministratorArea\obj\Debug\AdministratorArea.vbprojResolveAssemblyReference.cache
+E:\Documents\1 All SoulSong Work\0 Separate Projects\AdministratorArea\AdministratorArea\obj\Debug\AdministratorArea.vbprojResolveAssemblyReference.cache
+E:\Documents\1 All SoulSong Work\0 Separate Projects\AdministratorArea\AdministratorArea\obj\Debug\SoulSong_Analysis.AdministratorAreaForm.resources
+E:\Documents\1 All SoulSong Work\0 Separate Projects\AdministratorArea\AdministratorArea\obj\Debug\SoulSong_Analysis.Resources.resources
+E:\Documents\1 All SoulSong Work\0 Separate Projects\AdministratorArea\AdministratorArea\obj\Debug\AdministratorArea.vbproj.GenerateResource.Cache
+E:\Documents\1 All SoulSong Work\0 Separate Projects\AdministratorArea\AdministratorArea\obj\Debug\AdministratorArea.vbproj.CoreCompileInputs.cache
+D:\Documents\1 All SoulSong Work\0 Separate Projects\AdministratorArea\AdministratorArea\obj\Debug\AdministratorArea.vbprojAssemblyReference.cache
+D:\Documents\1 All SoulSong Work\0 Separate Projects\AdministratorArea\AdministratorArea\obj\Debug\SoulSong_Analysis.AdministratorAreaForm.resources
+D:\Documents\1 All SoulSong Work\0 Separate Projects\AdministratorArea\AdministratorArea\obj\Debug\SoulSong_Analysis.Resources.resources
+D:\Documents\1 All SoulSong Work\0 Separate Projects\AdministratorArea\AdministratorArea\obj\Debug\AdministratorArea.vbproj.GenerateResource.cache
+D:\Documents\1 All SoulSong Work\0 Separate Projects\AdministratorArea\AdministratorArea\obj\Debug\AdministratorArea.vbproj.CoreCompileInputs.cache

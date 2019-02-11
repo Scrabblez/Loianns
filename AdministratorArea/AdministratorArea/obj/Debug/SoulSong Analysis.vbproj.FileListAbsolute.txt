@@ -1,0 +1,17 @@
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\SoulSong Analysis\SoulSong Analysis\bin\Debug\SoulSong Analysis.exe.config
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\SoulSong Analysis\SoulSong Analysis\bin\Debug\SoulSong Analysis.exe
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\SoulSong Analysis\SoulSong Analysis\bin\Debug\SoulSong Analysis.pdb
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\SoulSong Analysis\SoulSong Analysis\bin\Debug\SoulSong Analysis.xml
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\SoulSong Analysis\SoulSong Analysis\obj\Debug\SoulSong Analysis.vbprojResolveAssemblyReference.cache
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\SoulSong Analysis\SoulSong Analysis\obj\Debug\SoulSong_Analysis.InstallForm.resources
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\SoulSong Analysis\SoulSong Analysis\obj\Debug\SoulSong_Analysis.Resources.resources
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\SoulSong Analysis\SoulSong Analysis\obj\Debug\SoulSong_Analysis.SplashForm.resources
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\SoulSong Analysis\SoulSong Analysis\obj\Debug\SoulSong Analysis.vbproj.GenerateResource.Cache
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\SoulSong Analysis\SoulSong Analysis\obj\Debug\SoulSong Analysis.vbproj.CoreCompileInputs.cache
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\SoulSong Analysis\SoulSong Analysis\obj\Debug\SoulSong Analysis.exe
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\SoulSong Analysis\SoulSong Analysis\obj\Debug\SoulSong Analysis.xml
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\SoulSong Analysis\SoulSong Analysis\obj\Debug\SoulSong Analysis.pdb
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\SoulSong Analysis\SoulSong Analysis\obj\Debug\SoulSong_Analysis.StartForm.resources
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\SoulSong Analysis\SoulSong Analysis\obj\Debug\SoulSong_Analysis.AdministratorAreaForm.resources
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\SoulSong Analysis\SoulSong Analysis\obj\Debug\SoulSong_Analysis.ClientAreaForm.resources
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\SoulSong Analysis\SoulSong Analysis\obj\Debug\SoulSong_Analysis.Datepicker.resources
