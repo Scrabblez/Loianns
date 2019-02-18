@@ -60,3 +60,15 @@ E:\Documents\1 All SoulSong Work\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\Choo
 E:\Documents\1 All SoulSong Work\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.exe
 E:\Documents\1 All SoulSong Work\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.pdb
 E:\Documents\1 All SoulSong Work\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.xml
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.exe.config
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.exe
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.pdb
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.xml
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.frmChoosePhoto.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.Resources.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.OptionsForm.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.vbproj.GenerateResource.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.vbproj.CoreCompileInputs.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.exe
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.xml
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.pdb

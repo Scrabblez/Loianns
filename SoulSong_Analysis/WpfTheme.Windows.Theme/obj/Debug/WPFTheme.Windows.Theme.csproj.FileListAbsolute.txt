@@ -23,3 +23,16 @@ D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Deb
 D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\WPFTheme.Windows.Theme.csproj.CoreCompileInputs.cache
 D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\WpfTheme.Windows.Theme.dll
 D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\WpfTheme.Windows.Theme.pdb
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\bin\Debug\WpfTheme.Windows.Theme.dll
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\bin\Debug\WpfTheme.Windows.Theme.pdb
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\WPFTheme.Windows.Theme.csprojAssemblyReference.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\WpfTheme.Windows.Theme_MarkupCompile.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\WpfTheme.Windows.Theme_MarkupCompile.lref
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\ButtonStyle.baml
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\Theme.baml
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\WpfTheme.Windows.Theme.g.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\WpfTheme.Windows.Theme.Properties.Resources.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\WPFTheme.Windows.Theme.csproj.GenerateResource.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\WPFTheme.Windows.Theme.csproj.CoreCompileInputs.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\WpfTheme.Windows.Theme.dll
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SoulSong_Analysis\WpfTheme.Windows.Theme\obj\Debug\WpfTheme.Windows.Theme.pdb

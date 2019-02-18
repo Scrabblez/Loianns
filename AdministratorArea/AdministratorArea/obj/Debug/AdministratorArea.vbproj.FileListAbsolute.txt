@@ -42,3 +42,8 @@ D:\Documents\1 All SoulSong Work\0 Separate Projects\AdministratorArea\Administr
 D:\Documents\1 All SoulSong Work\0 Separate Projects\AdministratorArea\AdministratorArea\obj\Debug\SoulSong_Analysis.Resources.resources
 D:\Documents\1 All SoulSong Work\0 Separate Projects\AdministratorArea\AdministratorArea\obj\Debug\AdministratorArea.vbproj.GenerateResource.cache
 D:\Documents\1 All SoulSong Work\0 Separate Projects\AdministratorArea\AdministratorArea\obj\Debug\AdministratorArea.vbproj.CoreCompileInputs.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\AdministratorArea\AdministratorArea\obj\Debug\AdministratorArea.vbprojAssemblyReference.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\AdministratorArea\AdministratorArea\obj\Debug\SoulSong_Analysis.AdministratorAreaForm.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\AdministratorArea\AdministratorArea\obj\Debug\SoulSong_Analysis.Resources.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\AdministratorArea\AdministratorArea\obj\Debug\AdministratorArea.vbproj.GenerateResource.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\AdministratorArea\AdministratorArea\obj\Debug\AdministratorArea.vbproj.CoreCompileInputs.cache

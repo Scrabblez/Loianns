@@ -46,3 +46,14 @@ E:\Documents\1 All SoulSong Work\0 Separate Projects\SplashScreen\SplashScreen\o
 E:\Documents\1 All SoulSong Work\0 Separate Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.exe
 E:\Documents\1 All SoulSong Work\0 Separate Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.xml
 E:\Documents\1 All SoulSong Work\0 Separate Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.pdb
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe.config
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SplashScreen\SplashScreen\bin\Debug\SplashScreen.pdb
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SplashScreen\SplashScreen\bin\Debug\SplashScreen.xml
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SplashScreen\SplashScreen\obj\Debug\SplashScreen.Resources.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SplashScreen\SplashScreen\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SplashScreen\SplashScreen\obj\Debug\SplashScreen.vbproj.GenerateResource.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SplashScreen\SplashScreen\obj\Debug\SplashScreen.vbproj.CoreCompileInputs.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SplashScreen\SplashScreen\obj\Debug\SplashScreen.exe
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SplashScreen\SplashScreen\obj\Debug\SplashScreen.xml
+C:\Users\Mam\source\repos\Loianns-master\Loianns\SplashScreen\SplashScreen\obj\Debug\SplashScreen.pdb

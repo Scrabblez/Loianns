@@ -34,3 +34,14 @@ E:\Documents\1 All SoulSong Work\Projects\BkGdForm\BkGdForm\obj\Debug\BkGdForm.v
 E:\Documents\1 All SoulSong Work\Projects\BkGdForm\BkGdForm\obj\Debug\BkGdForm.exe
 E:\Documents\1 All SoulSong Work\Projects\BkGdForm\BkGdForm\obj\Debug\BkGdForm.xml
 E:\Documents\1 All SoulSong Work\Projects\BkGdForm\BkGdForm\obj\Debug\BkGdForm.pdb
+C:\Users\Mam\source\repos\Loianns-master\Loianns\BkGdForm\BkGdForm\bin\Debug\BkGdForm.exe.config
+C:\Users\Mam\source\repos\Loianns-master\Loianns\BkGdForm\BkGdForm\bin\Debug\BkGdForm.exe
+C:\Users\Mam\source\repos\Loianns-master\Loianns\BkGdForm\BkGdForm\bin\Debug\BkGdForm.pdb
+C:\Users\Mam\source\repos\Loianns-master\Loianns\BkGdForm\BkGdForm\bin\Debug\BkGdForm.xml
+C:\Users\Mam\source\repos\Loianns-master\Loianns\BkGdForm\BkGdForm\obj\Debug\BkGdForm.BkGdForm.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\BkGdForm\BkGdForm\obj\Debug\BkGdForm.Resources.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\BkGdForm\BkGdForm\obj\Debug\BkGdForm.vbproj.GenerateResource.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\BkGdForm\BkGdForm\obj\Debug\BkGdForm.vbproj.CoreCompileInputs.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\BkGdForm\BkGdForm\obj\Debug\BkGdForm.exe
+C:\Users\Mam\source\repos\Loianns-master\Loianns\BkGdForm\BkGdForm\obj\Debug\BkGdForm.xml
+C:\Users\Mam\source\repos\Loianns-master\Loianns\BkGdForm\BkGdForm\obj\Debug\BkGdForm.pdb

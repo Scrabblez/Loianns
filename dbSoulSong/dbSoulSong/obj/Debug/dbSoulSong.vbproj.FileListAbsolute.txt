@@ -51,3 +51,16 @@ E:\Documents\1 All SoulSong Work\0 Separate Projects\dbSoulSong\dbSoulSong\obj\D
 E:\Documents\1 All SoulSong Work\0 Separate Projects\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.exe
 E:\Documents\1 All SoulSong Work\0 Separate Projects\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.xml
 E:\Documents\1 All SoulSong Work\0 Separate Projects\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.pdb
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\bin\Debug\SSdb.mdf
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\bin\Debug\SSdb_log.ldf
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\bin\Debug\SoulSong.exe.config
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\bin\Debug\SoulSong.exe
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\bin\Debug\SoulSong.pdb
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\bin\Debug\SoulSong.xml
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.Form1.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.Resources.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\obj\Debug\dbSoulSong.vbproj.GenerateResource.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\obj\Debug\dbSoulSong.vbproj.CoreCompileInputs.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.exe
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.xml
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.pdb

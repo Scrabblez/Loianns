@@ -45,3 +45,14 @@ E:\Documents\1 All SoulSong Work\0 Separate Projects\InstallScreen\InstallScreen
 E:\Documents\1 All SoulSong Work\0 Separate Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.exe
 E:\Documents\1 All SoulSong Work\0 Separate Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.xml
 E:\Documents\1 All SoulSong Work\0 Separate Projects\InstallScreen\InstallScreen\obj\Debug\InstallScreen.pdb
+C:\Users\Mam\source\repos\Loianns-master\Loianns\InstallScreen\InstallScreen\bin\Debug\InstallScreen.exe.config
+C:\Users\Mam\source\repos\Loianns-master\Loianns\InstallScreen\InstallScreen\bin\Debug\InstallScreen.exe
+C:\Users\Mam\source\repos\Loianns-master\Loianns\InstallScreen\InstallScreen\bin\Debug\InstallScreen.pdb
+C:\Users\Mam\source\repos\Loianns-master\Loianns\InstallScreen\InstallScreen\bin\Debug\InstallScreen.xml
+C:\Users\Mam\source\repos\Loianns-master\Loianns\InstallScreen\InstallScreen\obj\Debug\InstallScreen.InstallScreen.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\InstallScreen\InstallScreen\obj\Debug\InstallScreen.Resources.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\InstallScreen\InstallScreen\obj\Debug\InstallScreen.vbproj.GenerateResource.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\InstallScreen\InstallScreen\obj\Debug\InstallScreen.vbproj.CoreCompileInputs.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\InstallScreen\InstallScreen\obj\Debug\InstallScreen.exe
+C:\Users\Mam\source\repos\Loianns-master\Loianns\InstallScreen\InstallScreen\obj\Debug\InstallScreen.xml
+C:\Users\Mam\source\repos\Loianns-master\Loianns\InstallScreen\InstallScreen\obj\Debug\InstallScreen.pdb

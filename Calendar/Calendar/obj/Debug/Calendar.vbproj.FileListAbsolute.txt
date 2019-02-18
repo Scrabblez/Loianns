@@ -46,3 +46,14 @@ E:\Documents\1 All SoulSong Work\0 Separate Projects\Calendar\Calendar\obj\Debug
 E:\Documents\1 All SoulSong Work\0 Separate Projects\Calendar\Calendar\obj\Debug\Calendar.exe
 E:\Documents\1 All SoulSong Work\0 Separate Projects\Calendar\Calendar\obj\Debug\Calendar.xml
 E:\Documents\1 All SoulSong Work\0 Separate Projects\Calendar\Calendar\obj\Debug\Calendar.pdb
+C:\Users\Mam\source\repos\Loianns-master\Loianns\Calendar\Calendar\bin\Debug\Calendar.exe.config
+C:\Users\Mam\source\repos\Loianns-master\Loianns\Calendar\Calendar\bin\Debug\Calendar.exe
+C:\Users\Mam\source\repos\Loianns-master\Loianns\Calendar\Calendar\bin\Debug\Calendar.pdb
+C:\Users\Mam\source\repos\Loianns-master\Loianns\Calendar\Calendar\bin\Debug\Calendar.xml
+C:\Users\Mam\source\repos\Loianns-master\Loianns\Calendar\Calendar\obj\Debug\Calendar.Form1.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\Calendar\Calendar\obj\Debug\Calendar.Resources.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\Calendar\Calendar\obj\Debug\Calendar.vbproj.GenerateResource.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\Calendar\Calendar\obj\Debug\Calendar.vbproj.CoreCompileInputs.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\Calendar\Calendar\obj\Debug\Calendar.exe
+C:\Users\Mam\source\repos\Loianns-master\Loianns\Calendar\Calendar\obj\Debug\Calendar.xml
+C:\Users\Mam\source\repos\Loianns-master\Loianns\Calendar\Calendar\obj\Debug\Calendar.pdb
