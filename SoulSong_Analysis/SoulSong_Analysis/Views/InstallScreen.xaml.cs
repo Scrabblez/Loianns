@@ -10,21 +10,19 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace SoulSong_Analysis.Views
+namespace SoulSong_Analysis
 {
     /// <summary>
-    /// Interaction logic for InstallWindow.xaml
+    /// Interaction logic for InstallScreen.xaml
     /// </summary>
-    public partial class InstallScreen
+    public partial class InstallScreen : Window
     {
-        /// Open InstallScreen
-        /// public InstallWindow()
-        /// {
-        /// InitializeComponent();
-        /// }
+        public InstallScreen()
+        {
+            InitializeComponent();
+        }
 
         /// Starts Install Process
         private void btnInstall_Click(object sender, RoutedEventArgs e)
@@ -36,6 +34,14 @@ namespace SoulSong_Analysis.Views
         {
             System.Windows.Application.Current.Shutdown();
         }
-        
+
+        private void btnNextScreen_Click1(object sender, RoutedEventArgs e)
+        {
+            var SplashScreen = new SplashScreen();
+            SplashScreen.Show();
+            this.Close();
+
+        }
+
     }
 }

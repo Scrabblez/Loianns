@@ -10,11 +10,11 @@ none
 false
 CODE_ANALYSIS;DEBUG;TRACE
 C:\Users\garyt\source\repos\Loianns\SoulSong_Analysis\SoulSong_Analysis\App.xaml
-3-809104290
+273603577
 
-9-164130516
+8-1766562981
 151422701058
-InstallScreen.xaml;SplashScreen.xaml;Views\InstallScreen.xaml;
+Views\InstallScreen.xaml;SplashScreen.xaml;
 
-True
+False
 

@@ -18,7 +18,6 @@ C:\Users\garyt\source\repos\Loianns\SoulSong_Analysis\SoulSong_Analysis\obj\Debu
 C:\Users\garyt\source\repos\Loianns\SoulSong_Analysis\SoulSong_Analysis\obj\Debug\SoulSong_Analysis.exe
 C:\Users\garyt\source\repos\Loianns\SoulSong_Analysis\SoulSong_Analysis\obj\Debug\SoulSong_Analysis.pdb
 C:\Users\garyt\source\repos\Loianns\SoulSong_Analysis\SoulSong_Analysis\obj\Debug\Views\InstallScreen.g.cs
-C:\Users\garyt\source\repos\Loianns\SoulSong_Analysis\SoulSong_Analysis\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\garyt\source\repos\Loianns\SoulSong_Analysis\SoulSong_Analysis\bin\Debug\Prism.dll
 C:\Users\garyt\source\repos\Loianns\SoulSong_Analysis\SoulSong_Analysis\bin\Debug\Prism.pdb
 C:\Users\garyt\source\repos\Loianns\SoulSong_Analysis\SoulSong_Analysis\bin\Debug\Prism.xml
@@ -31,5 +30,5 @@ D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\SoulSong_Analysis\obj\Debug\Ap
 D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\SoulSong_Analysis\obj\Debug\GeneratedInternalTypeHelper.g.cs
 D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\SoulSong_Analysis\obj\Debug\SoulSong_Analysis_MarkupCompile.cache
 D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\SoulSong_Analysis\obj\Debug\SoulSong_Analysis_MarkupCompile.lref
-C:\Users\garyt\source\repos\Loianns\SoulSong_Analysis\SoulSong_Analysis\obj\Debug\InstallScreen.g.cs
 C:\Users\garyt\source\repos\Loianns\SoulSong_Analysis\SoulSong_Analysis\obj\Debug\SplashScreen.g.cs
+C:\Users\garyt\source\repos\Loianns\SoulSong_Analysis\SoulSong_Analysis\obj\Debug\SplashScreen.baml

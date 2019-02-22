@@ -79,7 +79,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="InstallScreen.xaml">
+    <Page Include="Views\InstallScreen.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -87,15 +87,11 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Views\InstallScreen.xaml">
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
-    </Page>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="InstallScreen.xaml.cs">
+    <Compile Include="Views\InstallScreen.xaml.cs">
       <DependentUpon>InstallScreen.xaml</DependentUpon>
     </Compile>
     <Compile Include="SplashScreen.xaml.cs">
@@ -103,10 +99,6 @@
     </Compile>
     <Compile Include="ViewModels\BaseViewModel.cs" />
     <Compile Include="ViewModels\InstallScreenVM.cs" />
-    <Compile Include="Views\InstallScreen.xaml.cs">
-      <DependentUpon>InstallScreen.xaml</DependentUpon>
-      <SubType>Code</SubType>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -163,6 +155,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
+    <Folder Include="Themes\" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="images\imgSplashScreen.png" />
