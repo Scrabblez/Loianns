@@ -31,4 +31,3 @@ D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\SoulSong_Analysis\obj\Debug\Ge
 D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\SoulSong_Analysis\obj\Debug\SoulSong_Analysis_MarkupCompile.cache
 D:\Ann\Documents\GitHub\Loianns\SoulSong_Analysis\SoulSong_Analysis\obj\Debug\SoulSong_Analysis_MarkupCompile.lref
 C:\Users\garyt\source\repos\Loianns\SoulSong_Analysis\SoulSong_Analysis\obj\Debug\SplashScreen.g.cs
-C:\Users\garyt\source\repos\Loianns\SoulSong_Analysis\SoulSong_Analysis\obj\Debug\SplashScreen.baml

@@ -1,0 +1,24 @@
+Public Function AgeYears(ByVal txtDoB As Date) As Integer
+  ' Comments: Returns the age in years
+  ' Params  : txtDoB    Date to check
+  ' Returns : Number of years
+  On Error GoTo PROC_ERR
+
+  Dim intYears As Integer
+
+  intYears = Year(Now) - Year(txtDoB)
+
+  If DateSerial(Year(Now), Month(txtDoB), Day(txtDoB)) > Now Then
+   ' Subtract a year if birthday hasn't arrived this year
+    intYears = intYears - 1
+  End If
+
+  AgeYears = intYears
+
+PROC_EXIT:
+  Exit Function
+
+PROC_ERR:
+  MsgBox "Error: " & Err.Number & ". " & Err.Description, , "modDateTime.AgeYears"
+  Resume PROC_EXIT
+End Function

@@ -1,0 +1,66 @@
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\SoulSong Backup\SoulSong\SoulSong\bin\Debug\SSdb.mdf
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\SoulSong Backup\SoulSong\SoulSong\bin\Debug\SSdb_log.ldf
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\SoulSong Backup\SoulSong\SoulSong\bin\Debug\SoulSong.exe.config
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\SoulSong Backup\SoulSong\SoulSong\bin\Debug\SoulSong.exe
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\SoulSong Backup\SoulSong\SoulSong\bin\Debug\SoulSong.pdb
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\SoulSong Backup\SoulSong\SoulSong\bin\Debug\SoulSong.xml
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\SoulSong Backup\SoulSong\SoulSong\obj\Debug\dbSoulSong.vbprojResolveAssemblyReference.cache
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\SoulSong Backup\SoulSong\SoulSong\obj\Debug\SoulSong.Form1.resources
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\SoulSong Backup\SoulSong\SoulSong\obj\Debug\SoulSong.Resources.resources
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\SoulSong Backup\SoulSong\SoulSong\obj\Debug\dbSoulSong.vbproj.GenerateResource.Cache
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\SoulSong Backup\SoulSong\SoulSong\obj\Debug\dbSoulSong.vbproj.CoreCompileInputs.cache
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\SoulSong Backup\SoulSong\SoulSong\obj\Debug\SoulSong.exe
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\SoulSong Backup\SoulSong\SoulSong\obj\Debug\SoulSong.xml
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\SoulSong Backup\SoulSong\SoulSong\obj\Debug\SoulSong.pdb
+E:\Documents\1 All SoulSong Work\Projects\dbSoulSong\dbSoulSong\bin\Debug\SSdb.mdf
+E:\Documents\1 All SoulSong Work\Projects\dbSoulSong\dbSoulSong\bin\Debug\SSdb_log.ldf
+E:\Documents\1 All SoulSong Work\Projects\dbSoulSong\dbSoulSong\bin\Debug\SoulSong.exe.config
+E:\Documents\1 All SoulSong Work\Projects\dbSoulSong\dbSoulSong\bin\Debug\SoulSong.exe
+E:\Documents\1 All SoulSong Work\Projects\dbSoulSong\dbSoulSong\bin\Debug\SoulSong.pdb
+E:\Documents\1 All SoulSong Work\Projects\dbSoulSong\dbSoulSong\bin\Debug\SoulSong.xml
+E:\Documents\1 All SoulSong Work\Projects\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.Form1.resources
+E:\Documents\1 All SoulSong Work\Projects\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.Resources.resources
+E:\Documents\1 All SoulSong Work\Projects\dbSoulSong\dbSoulSong\obj\Debug\dbSoulSong.vbproj.GenerateResource.Cache
+E:\Documents\1 All SoulSong Work\Projects\dbSoulSong\dbSoulSong\obj\Debug\dbSoulSong.vbproj.CoreCompileInputs.cache
+E:\Documents\1 All SoulSong Work\Projects\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.exe
+E:\Documents\1 All SoulSong Work\Projects\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.xml
+E:\Documents\1 All SoulSong Work\Projects\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.pdb
+E:\Documents\1 All SoulSong Work\0 Projects\dbSoulSong\dbSoulSong\bin\Debug\SSdb.mdf
+E:\Documents\1 All SoulSong Work\0 Projects\dbSoulSong\dbSoulSong\bin\Debug\SSdb_log.ldf
+E:\Documents\1 All SoulSong Work\0 Projects\dbSoulSong\dbSoulSong\bin\Debug\SoulSong.exe.config
+E:\Documents\1 All SoulSong Work\0 Projects\dbSoulSong\dbSoulSong\bin\Debug\SoulSong.exe
+E:\Documents\1 All SoulSong Work\0 Projects\dbSoulSong\dbSoulSong\bin\Debug\SoulSong.pdb
+E:\Documents\1 All SoulSong Work\0 Projects\dbSoulSong\dbSoulSong\bin\Debug\SoulSong.xml
+E:\Documents\1 All SoulSong Work\0 Projects\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.Form1.resources
+E:\Documents\1 All SoulSong Work\0 Projects\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.Resources.resources
+E:\Documents\1 All SoulSong Work\0 Projects\dbSoulSong\dbSoulSong\obj\Debug\dbSoulSong.vbproj.GenerateResource.Cache
+E:\Documents\1 All SoulSong Work\0 Projects\dbSoulSong\dbSoulSong\obj\Debug\dbSoulSong.vbproj.CoreCompileInputs.cache
+E:\Documents\1 All SoulSong Work\0 Projects\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.exe
+E:\Documents\1 All SoulSong Work\0 Projects\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.xml
+E:\Documents\1 All SoulSong Work\0 Projects\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.pdb
+E:\Documents\1 All SoulSong Work\0 Separate Projects\dbSoulSong\dbSoulSong\bin\Debug\SSdb.mdf
+E:\Documents\1 All SoulSong Work\0 Separate Projects\dbSoulSong\dbSoulSong\bin\Debug\SSdb_log.ldf
+E:\Documents\1 All SoulSong Work\0 Separate Projects\dbSoulSong\dbSoulSong\bin\Debug\SoulSong.exe.config
+E:\Documents\1 All SoulSong Work\0 Separate Projects\dbSoulSong\dbSoulSong\bin\Debug\SoulSong.exe
+E:\Documents\1 All SoulSong Work\0 Separate Projects\dbSoulSong\dbSoulSong\bin\Debug\SoulSong.pdb
+E:\Documents\1 All SoulSong Work\0 Separate Projects\dbSoulSong\dbSoulSong\bin\Debug\SoulSong.xml
+E:\Documents\1 All SoulSong Work\0 Separate Projects\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.Form1.resources
+E:\Documents\1 All SoulSong Work\0 Separate Projects\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.Resources.resources
+E:\Documents\1 All SoulSong Work\0 Separate Projects\dbSoulSong\dbSoulSong\obj\Debug\dbSoulSong.vbproj.GenerateResource.Cache
+E:\Documents\1 All SoulSong Work\0 Separate Projects\dbSoulSong\dbSoulSong\obj\Debug\dbSoulSong.vbproj.CoreCompileInputs.cache
+E:\Documents\1 All SoulSong Work\0 Separate Projects\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.exe
+E:\Documents\1 All SoulSong Work\0 Separate Projects\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.xml
+E:\Documents\1 All SoulSong Work\0 Separate Projects\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.pdb
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\bin\Debug\SSdb.mdf
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\bin\Debug\SSdb_log.ldf
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\bin\Debug\SoulSong.exe.config
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\bin\Debug\SoulSong.exe
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\bin\Debug\SoulSong.pdb
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\bin\Debug\SoulSong.xml
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.Form1.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.Resources.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\obj\Debug\dbSoulSong.vbproj.GenerateResource.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\obj\Debug\dbSoulSong.vbproj.CoreCompileInputs.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.exe
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.xml
+C:\Users\Mam\source\repos\Loianns-master\Loianns\dbSoulSong\dbSoulSong\obj\Debug\SoulSong.pdb

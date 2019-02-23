@@ -1,0 +1,12 @@
+Public Function SpiralName(varAge)
+' declare variables to age, spiral number
+    Dim varSpiralNumber As Integer
+    Dim varSpiral As Variant
+    varSpiral = Array("Root", "Sacral", "Solar Plexus", "Heart", "Throat", "Third Eye", "Crown", "Root", "Sacral", "Solar Plexus", "Heart", "Throat", "Third Eye", "Crown")
+    Dim SpiralName As String
+
+    varSpiralNumber = varAge \ 7
+        
+    SpiralName = varSpiral(varSpiralNumber - 1)
+
+End Function

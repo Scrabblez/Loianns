@@ -1,0 +1,258 @@
+Rem Global Variables to Pass Values From One Form to Another
+
+Public strtblName As String
+
+Public strFrmName As String
+Public strCurrentFrmName As String
+Public icount As Long
+
+Public strCityName As String
+Public strRegionName As String
+Public strRegionAbbr As String
+Public strCountryName As String
+
+' Declare Contact Information.
+Public Function Gbl_Contact()
+
+    Gbl_Contact = "crystalsingingbowls@gmail.com"
+
+End Function
+
+' Declare Copyright Information.
+Public Function Gbl_Copyright()
+
+    Gbl_Copyright = "© Ann Reeves 2016"
+
+End Function
+
+' Declare Version Information.
+Public Function Gbl_Version()
+
+    Gbl_Version = "1.0"
+
+End Function
+' uses the Practitioner's City as the default value when inputting address City
+Public Function Gbl_Dflt_City_Name()
+
+    Gbl_Dflt_City_Name = DLookup("[CityName]", "tblPractitioner")
+
+End Function
+
+' uses the Practitioner's Region as the default value when inputting address Province or State
+Public Function Gbl_Dflt_Region_Name()
+
+    Gbl_Dflt_Region_Name = DLookup("[RegionName]", "tblPractitioner")
+    
+End Function
+
+' uses the Practitioner's Region as the default value when inputting address Province or State
+Public Function Gbl_Dflt_Region_Abbr()
+
+    Gbl_Dflt_Region_Abbr = DLookup("[RegionAbbr]", "tblPractitioner")
+    
+End Function
+
+' uses the Practitioner's Country as the default value when inputting address Country
+Public Function Gbl_Dflt_Country_Name()
+
+    Gbl_Dflt_Country_Name = DLookup("[CountryName]", "tblPractitioner")
+    
+End Function
+
+Public Function Gbl_FullName(varFName, varLName)
+
+    Gbl_FullName = varFName & " " & varLName
+    
+End Function
+
+' Comments: Returns the age in years
+Public Function Gbl_AgeYears(ByVal varDoB As Date) As Integer
+    
+    Gbl_AgeYears = Int((Date - varDoB) / 365)
+      
+End Function
+
+' Comments: Identifies the Spiral based upon Age
+Public Function Gbl_SpiralName(varAge)
+    
+    If varAge >= 91 And varAge < 98 Then
+        Gbl_SpiralName = "Crown"
+    End If
+    If varAge >= 84 And varAge < 91 Then
+        Gbl_SpiralName = "Third Eye"
+    End If
+    If varAge >= 77 And varAge < 84 Then
+        Gbl_SpiralName = "Throat"
+    End If
+    If varAge >= 70 And varAge < 77 Then
+        Gbl_SpiralName = "Heart"
+    End If
+    If varAge >= 63 And varAge < 70 Then
+        Gbl_SpiralName = "Solar Plexus"
+    End If
+    If varAge >= 56 And varAge < 63 Then
+        Gbl_SpiralName = "Sacral"
+    End If
+    If varAge >= 48 And varAge < 56 Then
+        Gbl_SpiralName = "Root"
+    End If
+    If varAge >= 42 And varAge < 48 Then
+        Gbl_SpiralName = "Crown"
+    End If
+    If varAge >= 35 And varAge < 42 Then
+        Gbl_SpiralName = "Third Eye"
+    End If
+    If varAge >= 28 And varAge < 35 Then
+        Gbl_SpiralName = "Throat"
+    End If
+    If varAge >= 21 And varAge < 28 Then
+        Gbl_SpiralName = "Heart"
+    End If
+    If varAge >= 14 And varAge < 21 Then
+        Gbl_SpiralName = "Solar Plexus"
+    End If
+    If varAge >= 8 And varAge < 14 Then
+        Gbl_SpiralName = "Sacral"
+    End If
+    If varAge >= 0 And varAge < 8 Then
+        Gbl_SpiralName = "Root"
+    End If
+
+End Function
+
+' Comments: Identifies the Stage based upon Age
+Public Function Gbl_StageName(varAge)
+        Dim varStageNumber As Integer
+        Dim varStage As Variant
+        
+    If varAge <= 7 Then
+    
+        If varAge >= 0 And varAge < 1 Then
+            Gbl_StageName = "Root"
+        End If
+        If varAge >= 1 And varAge < 2 Then
+            Gbl_StageName = "Sacral"
+        End If
+        If varAge >= 2 And varAge < 3 Then
+            Gbl_StageName = "Solar Plexus"
+        End If
+        If varAge >= 3 And varAge < 4 Then
+            Gbl_StageName = "Heart"
+        End If
+        If varAge >= 4 And varAge < 5 Then
+            Gbl_StageName = "Throat"
+        End If
+        If varAge >= 5 And varAge < 6 Then
+            Gbl_StageName = "Third Eye"
+        End If
+        If varAge >= 6 And varAge < 7 Then
+            Gbl_StageName = "Crown"
+        End If
+        
+        Else
+    
+        varStageNumber = (varAge Mod 7) - 1
+    
+        If varStageNumber >= 0 And varStageNumber < 1 Then
+            Gbl_StageName = "Root"
+        End If
+        If varStageNumber >= 1 And varStageNumber < 2 Then
+            Gbl_StageName = "Sacral"
+        End If
+        If varStageNumber >= 2 And varStageNumber < 3 Then
+            Gbl_StageName = "Solar Plexus"
+        End If
+        If varStageNumber >= 3 And varStageNumber < 4 Then
+            Gbl_StageName = "Heart"
+        End If
+        If varStageNumber >= 4 And varStageNumber < 5 Then
+            Gbl_StageName = "Throat"
+        End If
+        If varStageNumber >= 5 And varStageNumber < 6 Then
+            Gbl_StageName = "Third Eye"
+        End If
+        If varStageNumber >= 6 And varStageNumber < 7 Then
+            Gbl_StageName = "Crown"
+        End If
+    End If
+
+End Function
+
+
+' Converts a number (1-12) to month name (January-December)
+Function Gbl_MonthName(MonthNumber As Integer) As String
+
+   Dim varMonths As Variant
+   varMonths = Array("January", "February", "March", "April", _
+      "May", "June", "July", "August", "September", _
+      "October", "November", "December")
+   Gbl_MonthName = varMonths(MonthNumber - 1)
+   
+End Function
+
+Public Function IsOpen(ByVal strFormName As String) As Boolean
+
+    IsOpen = False
+    ' is form open?
+    If SysCmd(acSysCmdGetObjectState, acForm, strFormName) <> 0 Then
+        ' if so make sure its not in design view
+        If Forms(strFormName).CurrentView <> 0 Then
+            IsOpen = True
+        End If
+    End If
+
+    Exit Function
+
+End Function
+
+' Converts a concatenated string to separate text strings
+
+Public Function ParseText(TextIn As String, x) As Variant
+On Error Resume Next
+Dim Var As Variant
+Var = Split(TextIn, "|", -1)
+ParseText = Var(x)
+
+End Function
+
+Public Function ListMonths(ctl As Control, varID As Variant, lngRow As Long, lngCol As Long, intCode As Integer)
+    Select Case intCode
+        Case acLBInitialize
+            ListMonths = True
+        Case acLBOpen
+            ListMonths = Timer
+        Case acLBGetRowCount
+            ListMonths = 12
+        Case acLBGetValue
+            Select Case lngCol
+                Case 0
+                    ' The year in the expression below is
+                    ' completely arbitrary.
+                    ListMonths = Format(DateSerial(2000, lngRow + 1, 1), "mmmm")
+                Case 1
+                    ListMonths = lngRow + 1
+            End Select
+    End Select
+End Function
+
+Public Function ListYears(ctl As Control, varID As Variant, lngRow As Long, lngCol As Long, intCode As Integer)
+    ' Display 100 years on either side of the current year.
+    Static intYear As Integer
+    Select Case intCode
+        Case acLBInitialize
+            intYear = Year(Now)
+            ListYears = True
+        Case acLBOpen
+            ListYears = Timer
+        Case acLBGetRowCount
+            ListYears = 100
+        Case acLBGetValue
+            ListYears = intYear - 100 + lngRow
+    End Select
+
+End Function
+
+Public Function GetCountNotes(strClientID As String) As Integer
+    GetCountNotes = DCount("[Client_ID]", "tbl_ClientNotes")
+End Function
+

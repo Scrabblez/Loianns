@@ -1,0 +1,5 @@
+Public Function FullName(varFName, varLName)
+        
+    FullName = varFName & " " & varLName
+
+End Function

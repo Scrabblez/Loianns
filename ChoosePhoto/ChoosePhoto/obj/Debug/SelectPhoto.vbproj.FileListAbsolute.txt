@@ -1,0 +1,22 @@
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.frmChoosePhoto.resources
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.Resources.resources
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\obj\Debug\SelectPhoto.vbproj.GenerateResource.Cache
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\obj\Debug\SelectPhoto.vbproj.CoreCompileInputs.cache
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.exe.config
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.exe
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.pdb
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.xml
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.exe
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.xml
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.pdb
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.exe.config
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.exe
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.pdb
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.xml
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.frmChoosePhoto.resources
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.Resources.resources
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\SelectPhoto.vbproj.GenerateResource.Cache
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\SelectPhoto.vbproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.exe
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.xml
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.pdb

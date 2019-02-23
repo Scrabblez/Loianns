@@ -1,0 +1,74 @@
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.exe.config
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.exe
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.pdb
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.xml
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.vbprojResolveAssemblyReference.cache
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.ChoosePhotoForm.resources
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.Resources.resources
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.vbproj.GenerateResource.Cache
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.vbproj.CoreCompileInputs.cache
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.exe
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.xml
+D:\Ann\Dropbox\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.pdb
+E:\Documents\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.exe.config
+E:\Documents\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.exe
+E:\Documents\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.pdb
+E:\Documents\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.xml
+E:\Documents\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.vbprojResolveAssemblyReference.cache
+E:\Documents\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.ChoosePhotoForm.resources
+E:\Documents\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.Resources.resources
+E:\Documents\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.vbproj.GenerateResource.Cache
+E:\Documents\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.vbproj.CoreCompileInputs.cache
+E:\Documents\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.exe
+E:\Documents\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.xml
+E:\Documents\SoulSong Visual Studio\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.pdb
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.exe.config
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.exe
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.pdb
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.xml
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.vbprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.ChoosePhotoForm.resources
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.Resources.resources
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.vbproj.GenerateResource.Cache
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.vbproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.exe
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.xml
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.pdb
+E:\Documents\Visual Studio SoulSong\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.OptionsForm.resources
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.exe.config
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.exe
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.pdb
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.xml
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.vbprojResolveAssemblyReference.cache
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.ChoosePhotoForm.resources
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.Resources.resources
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.OptionsForm.resources
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.vbproj.GenerateResource.Cache
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.vbproj.CoreCompileInputs.cache
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.exe
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.xml
+D:\Ann\Dropbox\SS 2018 Visual Studio Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.pdb
+E:\Documents\1 All SoulSong Work\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.Resources.resources
+E:\Documents\1 All SoulSong Work\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.OptionsForm.resources
+E:\Documents\1 All SoulSong Work\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.vbproj.GenerateResource.Cache
+E:\Documents\1 All SoulSong Work\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.vbproj.CoreCompileInputs.cache
+E:\Documents\1 All SoulSong Work\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.exe
+E:\Documents\1 All SoulSong Work\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.xml
+E:\Documents\1 All SoulSong Work\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.pdb
+E:\Documents\1 All SoulSong Work\Projects\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.frmChoosePhoto.resources
+E:\Documents\1 All SoulSong Work\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.exe.config
+E:\Documents\1 All SoulSong Work\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.exe
+E:\Documents\1 All SoulSong Work\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.pdb
+E:\Documents\1 All SoulSong Work\Projects\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.xml
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.exe.config
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.exe
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.pdb
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\bin\Debug\ChoosePhoto.xml
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.frmChoosePhoto.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.Resources.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.OptionsForm.resources
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.vbproj.GenerateResource.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.vbproj.CoreCompileInputs.cache
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.exe
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.xml
+C:\Users\Mam\source\repos\Loianns-master\Loianns\ChoosePhoto\ChoosePhoto\obj\Debug\ChoosePhoto.pdb

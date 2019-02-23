@@ -1,0 +1,8 @@
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoulSong Analysis\obj\Debug\SoulSong Analysis.csprojResolveAssemblyReference.cache
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoulSong Analysis\obj\Debug\FftGuitarTuner.FrequenciesScale.resources
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoulSong Analysis\obj\Debug\FftGuitarTuner.MainForm.resources
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoulSong Analysis\obj\Debug\FftGuitarTuner.Properties.Resources.resources
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoulSong Analysis\obj\Debug\FftGuitarTuner.SelectDeviceForm.resources
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoulSong Analysis\obj\Debug\SoulSong Analysis.csproj.GenerateResource.Cache
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoulSong Analysis\obj\Debug\SoulSong Analysis.csproj.CoreCompileInputs.cache
+C:\Users\Ann\Dropbox\SoulSong Visual Studio\SoulSong Analysis\SoulSong Analysis\obj\Debug\FftGuitarTuner.pdb
